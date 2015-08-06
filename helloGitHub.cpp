@@ -13,8 +13,8 @@ using namespace std;
 int main()
 {
   
-  cout << "Hello, GitHub ! !! \n";
-  cout << "I'm new here, so please be gentle...\n";
+  cout << "This is a new branch test, GitHub ! !! \n";
+  cout << "I'm learning to use GitHub, so please be helpful...\n";
   
   return 0;
 }
